@@ -15,7 +15,7 @@ VALUES
 5.0,
 'COCALATA',
 24,
-1);
+2);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
 (`descricao`,
@@ -30,7 +30,7 @@ VALUES
 5.0,
 'GUARANALATA',
 12,
-1);
+2);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
 (`descricao`,
@@ -45,7 +45,7 @@ VALUES
 3.0,
 'AGUAGARRAFA',
 100,
-1);
+2);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
 (`descricao`,
@@ -60,7 +60,7 @@ VALUES
 5.0,
 'COCADA',
 24,
-2);
+12);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
 (`descricao`,
@@ -75,7 +75,7 @@ VALUES
 1.0,
 'PACOCA',
 100,
-2);
+12);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
 (`descricao`,
@@ -90,7 +90,7 @@ VALUES
 7.5,
 'BATATACHIPS',
 140,
-3);
+22);
 
 INSERT INTO `heroku_2c8b6c05f4d3fa6`.`clientes`
 (`bairro`,
