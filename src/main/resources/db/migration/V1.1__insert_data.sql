@@ -1,8 +1,8 @@
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`categorias` (`categoria`) VALUES ('Bebidas');
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`categorias` (`categoria`) VALUES ('Doces');
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`categorias` (`categoria`) VALUES ('Salgados');
+INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Bebidas');
+INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Doces');
+INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Salgados');
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -17,7 +17,7 @@ VALUES
 24,
 2);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -32,7 +32,7 @@ VALUES
 12,
 2);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -47,7 +47,7 @@ VALUES
 100,
 2);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -62,7 +62,7 @@ VALUES
 24,
 12);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -77,7 +77,7 @@ VALUES
 100,
 12);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`produtos`
+INSERT INTO `brprev`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -92,7 +92,7 @@ VALUES
 140,
 22);
 
-INSERT INTO `heroku_2c8b6c05f4d3fa6`.`clientes`
+INSERT INTO `brprev`.`clientes`
 (`bairro`,
 `cep`,
 `cidade`,
