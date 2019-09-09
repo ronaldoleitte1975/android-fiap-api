@@ -1,8 +1,8 @@
-INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Bebidas');
-INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Doces');
-INSERT INTO `brprev`.`categorias` (`categoria`) VALUES ('Salgados');
+INSERT INTO `androidfiapapi`.`categorias` (`categoria`) VALUES ('Bebidas');
+INSERT INTO `androidfiapapi`.`categorias` (`categoria`) VALUES ('Doces');
+INSERT INTO `androidfiapapi`.`categorias` (`categoria`) VALUES ('Salgados');
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -15,9 +15,9 @@ VALUES
 5.0,
 'COCALATA',
 24,
-2);
+1);
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -30,9 +30,9 @@ VALUES
 5.0,
 'GUARANALATA',
 12,
-2);
+1);
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -45,9 +45,9 @@ VALUES
 3.0,
 'AGUAGARRAFA',
 100,
-2);
+1);
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -60,9 +60,9 @@ VALUES
 5.0,
 'COCADA',
 24,
-12);
+2);
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -75,9 +75,9 @@ VALUES
 1.0,
 'PACOCA',
 100,
-12);
+2);
 
-INSERT INTO `brprev`.`produtos`
+INSERT INTO `androidfiapapi`.`produtos`
 (`descricao`,
 `foto`,
 `preco`,
@@ -90,9 +90,9 @@ VALUES
 7.5,
 'BATATACHIPS',
 140,
-22);
+3);
 
-INSERT INTO `brprev`.`clientes`
+INSERT INTO `androidfiapapi`.`clientes`
 (`bairro`,
 `cep`,
 `cidade`,
@@ -109,4 +109,4 @@ VALUES
 'SP',
 'Ronaldo Cerqueira Leite',
 'Rua Felipe Camarão, 187',
-'abc123');
+'$2a$10$6aRCZoTYgA/JuQEaObMJ2ePTQWCNtfeNirIYbbMWdOTSzGc7v/ouG');
